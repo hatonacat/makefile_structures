@@ -1,0 +1,1 @@
+"A generic makefile structure when you want distributed folder structures"
